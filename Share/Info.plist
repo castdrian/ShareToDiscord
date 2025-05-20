@@ -23,5 +23,7 @@
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.share-services</string>
 	</dict>
+	<key>URLScheme</key>
+	<string>discord</string>
 </dict>
 </plist>
